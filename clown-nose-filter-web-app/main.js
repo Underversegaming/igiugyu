@@ -1,0 +1,13 @@
+function perload(){
+
+}
+function setup(){
+    canvas=createCanvas(300,300);
+    cancas.center();
+}
+function draw(){
+
+}
+function take_snapshot(){
+save(myclownimage.jpg)
+}
